@@ -1,0 +1,39 @@
+.userNameBoxes {
+    margin-top: 150px;
+}
+
+#userNameInput {
+    width: 70%;
+    height: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    border-style: none;
+    text-align: center;
+    outline-style: none;
+    padding: 0px;
+}
+
+#userNameOutput {
+    width: 100%;
+    height: 4rem;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2em;
+    border-style: hidden;
+    text-align: center;
+}
+
+#insertGoal {
+    margin-top: 3%;
+    height: 7rem;
+    width: 70%; 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4em;
+    outline-style: none;
+    text-align: center;
+}
+
+.toDoList {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 75%;
+    text-align: center;
+}
